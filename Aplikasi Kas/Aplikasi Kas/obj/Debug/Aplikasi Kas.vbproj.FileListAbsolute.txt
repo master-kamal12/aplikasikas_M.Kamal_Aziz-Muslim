@@ -1,0 +1,11 @@
+D:\ULM\Semester 5\Pemrograman Visual\Praktikum\Praktikum 13\Aplikasi Kas\Aplikasi Kas\bin\Debug\Aplikasi Kas.exe.config
+D:\ULM\Semester 5\Pemrograman Visual\Praktikum\Praktikum 13\Aplikasi Kas\Aplikasi Kas\obj\Debug\Aplikasi Kas.vbprojResolveAssemblyReference.cache
+D:\ULM\Semester 5\Pemrograman Visual\Praktikum\Praktikum 13\Aplikasi Kas\Aplikasi Kas\obj\Debug\Aplikasi_Kas.Form1.resources
+D:\ULM\Semester 5\Pemrograman Visual\Praktikum\Praktikum 13\Aplikasi Kas\Aplikasi Kas\obj\Debug\Aplikasi_Kas.Resources.resources
+D:\ULM\Semester 5\Pemrograman Visual\Praktikum\Praktikum 13\Aplikasi Kas\Aplikasi Kas\obj\Debug\Aplikasi Kas.vbproj.GenerateResource.Cache
+D:\ULM\Semester 5\Pemrograman Visual\Praktikum\Praktikum 13\Aplikasi Kas\Aplikasi Kas\obj\Debug\Aplikasi Kas.xml
+D:\ULM\Semester 5\Pemrograman Visual\Praktikum\Praktikum 13\Aplikasi Kas\Aplikasi Kas\bin\Debug\Aplikasi Kas.exe
+D:\ULM\Semester 5\Pemrograman Visual\Praktikum\Praktikum 13\Aplikasi Kas\Aplikasi Kas\bin\Debug\Aplikasi Kas.pdb
+D:\ULM\Semester 5\Pemrograman Visual\Praktikum\Praktikum 13\Aplikasi Kas\Aplikasi Kas\bin\Debug\Aplikasi Kas.xml
+D:\ULM\Semester 5\Pemrograman Visual\Praktikum\Praktikum 13\Aplikasi Kas\Aplikasi Kas\obj\Debug\Aplikasi Kas.exe
+D:\ULM\Semester 5\Pemrograman Visual\Praktikum\Praktikum 13\Aplikasi Kas\Aplikasi Kas\obj\Debug\Aplikasi Kas.pdb
